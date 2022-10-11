@@ -1,4 +1,4 @@
-## Oiii eu sou o Itallo Rodrigues Moreno, estudante de ADS na Fatec!
+## Hi, I'm Itallo Rodrigues Moreno, a student of Sitemas Analysis and Development at Fatec!
 <div align="center">
   <a href="https://github.com/ItalloMoreno22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItalloMoreno22&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
