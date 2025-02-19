@@ -1,4 +1,4 @@
-## Hi, I'm Itallo Rodrigues Moreno, a student of Sitemas Analysis and Development at Fatec!
+## Hello, I'm Itallo Rodrigues Moreno, a Site Analysis and Development student at Fatec! I currently work at Sumitomo Drives Techonlogie as a systems assistant
 <div align="center">
   <a href="https://github.com/ItalloMoreno22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItalloMoreno22&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
