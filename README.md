@@ -26,34 +26,10 @@ I am continuously improving my knowledge of software development, ERP architectu
 
 </div>
 
----
-
-## Professional Experience
-
-* Development and maintenance of routines using **ADVPL**
-* Customization of the **TOTVS Protheus ERP**
-* Development using the **MVC architecture**
-* Creation of interfaces and applications using **PO UI**
-* Development and consumption of **REST APIs and Web Services**
-* Integration between Protheus and external systems
-* Creation and optimization of queries using **SQL Server**
-* Database analysis, data validation, and troubleshooting
-* Automation of business processes and ERP routines
-* Technical support and analysis of system incidents
-
----
 
 ## GitHub Statistics
 
 <div align="center">
-
-  <a href="https://github.com/ItalloMoreno22">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ItalloMoreno22&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="Itallo Moreno GitHub statistics"/>
-  </a>
-
-  <a href="https://github.com/ItalloMoreno22">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ItalloMoreno22&layout=compact&langs_count=8&theme=vue-dark" alt="Most used languages"/>
-  </a>
 
 </div>
 
@@ -62,10 +38,6 @@ I am continuously improving my knowledge of software development, ERP architectu
 ## Connect with Me
 
 <div align="center">
-
-  <a href="https://github.com/ItalloMoreno22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ItalloMoreno22-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 
   <a href="https://www.linkedin.com/in/itallo-r-605757218/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Itallo%20Moreno-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -76,7 +48,5 @@ I am continuously improving my knowledge of software development, ERP architectu
 ---
 
 <div align="center">
-
-### Building reliable solutions with technology, integration, and business knowledge.
 
 </div>
